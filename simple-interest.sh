@@ -4,7 +4,6 @@
 # Do not use this in production. Sample purpose only.
 # Author: Upkar Lidder (IBM)
 
-
 echo "Enter the principal:"
 read p
 echo "Enter rate of interest per year:"
